@@ -1,0 +1,55 @@
+// Syllabus Graph
+digraph {
+	"Week 1
+Trust and Loyalty, Effective Communication" [fillcolor=lightblue shape=box style=filled]
+	"Week 1
+Trust and Loyalty, Effective Communication" -> lectures_1 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_1 {
+		lectures_1 [label="Building a Trusting Relationship with Your Human
+Developing Techniques to Express Your Needs" shape=box]
+	}
+	"Week 2
+Making Friends, Basic Commands" [fillcolor=lightblue shape=box style=filled]
+	"Week 2
+Making Friends, Basic Commands" -> lectures_2 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_2 {
+		lectures_2 [label="Interacting Positively with Other Dogs
+Starting with Simple Commands" shape=box]
+	}
+	"Week 3
+Physical Well-being, Advanced Training" [fillcolor=lightblue shape=box style=filled]
+	"Week 3
+Physical Well-being, Advanced Training" -> lectures_3 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_3 {
+		lectures_3 [label="The Importance of Regular Exercise and a Nutritious Diet
+Building on Basic Commands and Introducing Challenges" shape=box]
+	}
+	"Week 4
+Handling Anxiety and Changes, Exploring Safely" [fillcolor=lightblue shape=box style=filled]
+	"Week 4
+Handling Anxiety and Changes, Exploring Safely" -> lectures_4 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_4 {
+		lectures_4 [label="Learning to Adapt to New Environments and Routine Changes
+Engaging with New Sights, Sounds, and Smells During Adventures" shape=box]
+	}
+	"Week 5
+Health Check-ups and Grooming, Reflecting and Growing" [fillcolor=lightblue shape=box style=filled]
+	"Week 5
+Health Check-ups and Grooming, Reflecting and Growing" -> lectures_5 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_5 {
+		lectures_5 [label="Understanding the Need for Regular Veterinary Visits and Maintaining Grooming Habits
+Celebrating Your Journey from Puppyhood and Embracing Your Unique Personality" shape=box]
+	}
+	"Week 1
+Trust and Loyalty, Effective Communication" -> "Week 2
+Making Friends, Basic Commands"
+	"Week 2
+Making Friends, Basic Commands" -> "Week 3
+Physical Well-being, Advanced Training"
+	"Week 3
+Physical Well-being, Advanced Training" -> "Week 4
+Handling Anxiety and Changes, Exploring Safely"
+	"Week 4
+Handling Anxiety and Changes, Exploring Safely" -> "Week 5
+Health Check-ups and Grooming, Reflecting and Growing"
+}

@@ -1,69 +1,65 @@
-- month: 1
-  topics:
-  - 武士の歴史と心構え
-  lectures:
-    - title: 武士の起源と発展
-      description: |
-        武士の誕生と発展の歴史を学ぶ。武士階級がどのように形成され、社会的地位を確立していったかを理解する。
-    - title: 武士道の基本理念
-      description: |
-        武士道の根幹をなす考え方を学ぶ。忠義、名誉、勇気、礼儀、誠実さなどの美徳について理解を深める。
 
-- month: 2
-  topics:
-  - 武芸の基礎
-  lectures:
-    - title: 剣術の基本
-      description: |
-        剣術の基本的な型と技を学ぶ。刀の扱い方、構え、打ち方などを習得する。
-    - title: 弓術の基本
-      description: |
-        弓術の基本的な型と技を学ぶ。弓の構え方、引き方、放ち方などを習得する。
-    - title: 馬術の基本
-      description: |
-        馬術の基本的な型と技を学ぶ。馬の乗り方、扱い方などを習得する。
-    - title: 武芸の心法
-      description: |
-        武芸における精神的な側面を学ぶ。集中力、冷静さ、決断力などを養う。
+course_title: "Puppy Development 101: Becoming a Well-Rounded Dog"
+duration: 5 weeks
+course_description: This is a hypothetical course designed specifically for dogs to help them become well-rounded and understand their humans better.
 
-- month: 3
-  topics:
-  - 兵法と戦略
-  lectures:
-    - title: 孫子の兵法
-      description: |
-        古典兵法書「孫子の兵法」を学ぶ。戦略・戦術の基本的な考え方を理解する。
-    - title: 合戦の戦略と戦術
-      description: |
-        実際の合戦における戦略と戦術について学ぶ。歴史上の合戦を事例に研究する。
-    - title: 指揮官の資質
-      description: |
-        優れた指揮官に必要な資質について学ぶ。判断力、統率力、洞察力などを養う。
+schedule:
+  - week: 1
+    topics:
+      - Trust and Loyalty
+      - Effective Communication
+    lectures:
+      - title: Building a Trusting Relationship with Your Human
+        description: |
+          Learn the significance of building a trusting relationship with your human through bonding exercises and consistent interactions.
+      - title: Developing Techniques to Express Your Needs
+        description: |
+          Discover effective ways to communicate your needs to your human and understand their cues through body language and vocal signals.
 
-- month: 4
-  topics:
-  - 文化と教養
-  lectures:
-    - title: 茶道の基本
-      description: |
-        茶道の基本的な作法と心得を学ぶ。茶の湯の精神的な意味を理解する。
-    - title: 花道の基本
-      description: |
-        花道の基本的な技法と美意識を学ぶ。花を通じて自然と調和する心を養う。
-    - title: 書道の基本
-      description: |
-        書道の基本的な技法と表現力を学ぶ。文字を通じて内面の美を表現する力を養う。
-    - title: 思想的背景の理解
-      description: |
-        武士文化の背景にある儒教や仏教などの思想を学ぶ。武士としての生き方を考える。
+  - week: 2
+    topics:
+      - Making Friends
+      - Basic Commands
+    lectures:
+      - title: Interacting Positively with Other Dogs
+        description: |
+          Learn about canine social cues and how to engage in friendly interactions with other dogs through supervised playtime and socialization.
+      - title: Starting with Simple Commands
+        description: |
+          Begin your training journey with basic commands like sit, stay, and come, using positive reinforcement techniques to encourage good behavior.
 
-- month: 5
-  topics:
-  - 総合実践
-  lectures:
-    - title: 合戦シミュレーション
-      description: |
-        模擬的な合戦シミュレーションに参加する。戦略と戦術の実践力を養う。
-    - title: 武士としての生き方
-      description: |
-        武士としての心構えと生き方について改めて考察する。これまでの学びを振り返り、自らの武士像を確立する。
+  - week: 3
+    topics:
+      - Physical Well-being
+      - Advanced Training
+    lectures:
+      - title: The Importance of Regular Exercise and a Nutritious Diet
+        description: |
+          Understand the significance of maintaining physical health through regular exercise and a well-balanced diet tailored to your needs.
+      - title: Building on Basic Commands and Introducing Challenges
+        description: |
+          Enhance your skills and behavior by building upon the basic commands and engaging in challenging exercises to keep your mind stimulated.
+
+  - week: 4
+    topics:
+      - Handling Anxiety and Changes
+      - Exploring Safely
+    lectures:
+      - title: Learning to Adapt to New Environments and Routine Changes
+        description: |
+          Develop coping strategies to handle anxiety and adapt to new environments and changes in your daily routine, promoting emotional well-being.
+      - title: Engaging with New Sights, Sounds, and Smells During Adventures
+        description: |
+          Explore the world safely by learning to respond appropriately to new stimuli and practicing safe behaviors during outdoor adventures.
+
+  - week: 5
+    topics:
+      - Health Check-ups and Grooming
+      - Reflecting and Growing
+    lectures:
+      - title: Understanding the Need for Regular Veterinary Visits and Maintaining Grooming Habits
+        description: |
+          Learn about the importance of regular health check-ups with your veterinarian and maintaining good grooming habits for overall well-being.
+      - title: Celebrating Your Journey from Puppyhood and Embracing Your Unique Personality
+        description: |
+          Reflect on your growth and development throughout the course, celebrate your unique personality, and prepare for a lifetime of learning and companionship with your human family.

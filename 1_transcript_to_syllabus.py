@@ -45,7 +45,7 @@ def generate_syllabus(transcript):
     response = client.messages.create(
         model="claude-3-opus-20240229",
         max_tokens=4000,
-        temperature=0.7,
+        temperature=0.5,
         messages=[
             {
                 "role": "user",
@@ -63,6 +63,41 @@ def generate_syllabus(transcript):
     syllabus_yaml = syllabus_yaml.replace("```yaml", "").replace("```", "")
     return syllabus_yaml
 
+def generate_syllabus_ja(syllabus_yaml):
+    """
+    カリキュラムを日本語訳する
+    """
+    client = anthropic.Anthropic(api_key=anthropic.api_key)
+    
+    prompt = f"""
+    以下のカリキュラムを忠実に日本語に訳してください。
+    ただしキーは訳さずに原文のままにしてください。
+    カリキュラムはyaml形式で出力してください。
+    カリキュラム:
+    {syllabus_yaml}
+    """
+    
+    response = client.messages.create(
+        model="claude-3-opus-20240229",
+        max_tokens=4000,
+        temperature=0.7,
+        messages=[
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": prompt
+                    }
+                ]
+            }
+        ]
+    )
+    
+    syllabus_yaml_ja = response.content[0].text.strip()
+    syllabus_yaml_ja = syllabus_yaml_ja.replace("```yaml", "").replace("```", "")
+    return syllabus_yaml_ja
+
 def generate_syllabus_graph():
     """
     syllabusの内容からグラフを生成する関数
@@ -76,31 +111,36 @@ def generate_syllabus_graph():
     client = anthropic.Anthropic(api_key=anthropic.api_key)
 
     with open("./syllabus.yaml", "r") as file:
-        syllabus = file.read()
+        syllabus_en = file.read()
+    with open("./syllabus_ja.yaml", "r") as file:
+        syllabus_ja = file.read()
 
     prompt = f"""
-    syllabus:
-    {syllabus}
+    syllabus_en:
+    {syllabus_en}
+    syllabus_ja:
+    {syllabus_ja}
 
-    上記のシラバスから、
+    上記の日英それぞれのシラバスから、
     以下のPythonコードを生成してください。
 
     以下の「週」に関してはyamlファイルを見て適宜変える、月、年、カテゴリーとか
-
+    以下の処理を英語版・日本語版それぞれに対して行ってください。
+    # syllabus.yaml, syllabus_ja.yaml からそれぞれデータ読み込み
     # syllabusデータの作成 （型：リスト[dict]）
     # Graphvizを使ってグラフを作成。コメントに'Syllabus Graph'を指定。
     # 週のボックスノードと講義サブボックスの作成
     # syllabusデータの各週について繰り返し処理
     # 週のインデックスを取得
-    # 週のトピックを取得し、カンマ区切りの文字列に変換
-    # 週のノード名を作成（例: "Week 1\n基礎開発ツール講習"）
+    # 週の講義を取得し、カンマ区切りの文字列に変換
+    # 週のノード名を作成（例: "Week 1\nIntroduction to Human-Canine Bonding"）
     # 週のノードを作成。ボックス形状、塗りつぶし、水色の背景色を指定。
     # 週ごとのサブグラフを作成
-    # 講義のタイトルをリストアップし、改行区切りの文字列に変換
+    # 講義をリストアップし、改行区切りの文字列に変換
     # サブグラフ内に講義一覧のノードを作成。ボックス形状、ラベルに講義一覧を指定。
     # 週のノードと講義一覧のノードを破線で接続
     # 週ボックスノードの下部（south）からエッジを始め、headport='sw'はサブグラフの左下（south-west）にエッジを接続するように指定
-    # 隔週ごとの矢印の接続
+    # 週ごとの矢印の接続
     # syllabusデータの週の数-1回繰り返し処理
     # 現在の週のデータを取得
     # 次の週のデータを取得
@@ -108,7 +148,7 @@ def generate_syllabus_graph():
     # 次の週のノード名を作成
     # 現在の週のノードと次の週のノードを矢印で接続
     # グラフの保存と表示
-    # グラフを'syllabus_graph.png'という名前で保存し、表示する
+    # グラフを'syllabus_graph_en.png', 'syllabus_graph_ja.png' という名前で保存する
 
     pythonのコードブロックのみ出力。その他説明は書かないこと。
     """
@@ -160,15 +200,19 @@ for step in tqdm(steps):
             transcript = f.read()  # transcript.txtファイルから文字起こし情報を読み込む
         print(f"{step}完了！")
     elif step == "📝 シラバスの生成":
-        syllabus = generate_syllabus(transcript)
+        syllabus_en = generate_syllabus(transcript)
+        syllabus_ja = generate_syllabus_ja(syllabus_en)
         print(f"{step}完了！")
     elif step == "💾 シラバスのテキストファイルへの保存":
-        with open("syllabus.txt", "w") as f:
-            f.write(syllabus)
-        print(f"{step}完了！")
+        with open("syllabus_en.txt", "w") as f:
+            f.write(syllabus_en)
+        with open("syllabus_ja.txt", "w") as f:
+            f.write(syllabus_ja)
+        print(f"{step}完了!")
     elif step == "📂 ファイル名変更":
-        os.rename("syllabus.txt", "syllabus.yaml")
-        print(f"{step}完了！")
+        os.rename("syllabus_en.txt", "syllabus.yaml")
+        os.rename("syllabus_ja.txt", "syllabus_ja.yaml")
+        print(f"{step}完了!")
     elif step == "📊 シラバスからグラフの生成":
         generate_syllabus_graph()
         print(f"{step}完了！")

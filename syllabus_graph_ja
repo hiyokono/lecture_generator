@@ -1,0 +1,55 @@
+// Syllabus Graph
+digraph {
+	"Week 1
+信頼と忠誠心, 効果的なコミュニケーション" [fillcolor=lightblue shape=box style=filled]
+	"Week 1
+信頼と忠誠心, 効果的なコミュニケーション" -> lectures_1 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_1 {
+		lectures_1 [label="人間との信頼関係の構築
+ニーズを表現するための技術の開発" shape=box]
+	}
+	"Week 2
+友達を作る, 基本的なコマンド" [fillcolor=lightblue shape=box style=filled]
+	"Week 2
+友達を作る, 基本的なコマンド" -> lectures_2 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_2 {
+		lectures_2 [label="他の犬との前向きな交流
+簡単なコマンドから始める" shape=box]
+	}
+	"Week 3
+身体的な健康, 高度なトレーニング" [fillcolor=lightblue shape=box style=filled]
+	"Week 3
+身体的な健康, 高度なトレーニング" -> lectures_3 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_3 {
+		lectures_3 [label="定期的な運動と栄養バランスの取れた食事の重要性
+基本的なコマンドの強化とチャレンジの導入" shape=box]
+	}
+	"Week 4
+不安と変化への対処, 安全に探検する" [fillcolor=lightblue shape=box style=filled]
+	"Week 4
+不安と変化への対処, 安全に探検する" -> lectures_4 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_4 {
+		lectures_4 [label="新しい環境と日常の変化に適応することを学ぶ
+冒険中に新しい光景、音、匂いに触れる" shape=box]
+	}
+	"Week 5
+健康診断とグルーミング, 振り返りと成長" [fillcolor=lightblue shape=box style=filled]
+	"Week 5
+健康診断とグルーミング, 振り返りと成長" -> lectures_5 [headport=sw style=dashed tailport=s]
+	subgraph cluster_week_5 {
+		lectures_5 [label="定期的な獣医師の診察と適切なグルーミング習慣の維持の必要性を理解する
+子犬時代からの成長を祝い、自分らしさを受け入れる" shape=box]
+	}
+	"Week 1
+信頼と忠誠心, 効果的なコミュニケーション" -> "Week 2
+友達を作る, 基本的なコマンド"
+	"Week 2
+友達を作る, 基本的なコマンド" -> "Week 3
+身体的な健康, 高度なトレーニング"
+	"Week 3
+身体的な健康, 高度なトレーニング" -> "Week 4
+不安と変化への対処, 安全に探検する"
+	"Week 4
+不安と変化への対処, 安全に探検する" -> "Week 5
+健康診断とグルーミング, 振り返りと成長"
+}
