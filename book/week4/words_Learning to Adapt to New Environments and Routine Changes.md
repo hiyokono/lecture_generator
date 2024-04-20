@@ -1,73 +1,73 @@
-environment (15回) - 環境
-calming (13回) - 落ち着かせる
-soothing (11回) - 落ち着かせる
-stability (10回) - 安定性
-cope (6回) - 対処する
-comfortably (6回) - 快適に
-playtime (5回) - 遊び時間
-predictability (5回) - 予測可能性
-scent (5回) - 香り
-lavender (5回) - ラベンダー
-chamomile (5回) - カモミール
-chew (5回) - 噛む
-consistent (4回) - 一貫した
-adjustment (4回) - 調整
-core (4回) - 中心的な
-pent (4回) - 溜まった
-energy (4回) - エネルギー
-grooming (4回) - 手入れ
-glossary (3回) - 用語集
-canine (3回) - 犬の
-navigate (3回) - 行き来する
-unfamiliar (3回) - 馴染みのない
-overall (3回) - 全体的な
-reassurance (3回) - 安心感
-mealtime (3回) - 食事時間
-abrupt (3回) - 急な
-transition (3回) - 移行
-aroma (3回) - 香り
-learning (2回) - 学習する
-coping (2回) - 対処
-surroundings (2回) - 周囲
-familiarize (2回) - 慣れさせる
-beforehand (2回) - 事前に
-route (2回) - 経路
-adequate (2回) - 十分な
-foster (2回) - 育む
-supervise (2回) - 監督する
-playdate (2回) - 遊び仲間
-relaxation (2回) - リラックス
-breathing (2回) - 呼吸
-mindfulness (2回) - マインドフルネス
-tranquility (2回) - 静かさ
-snug (2回) - ぴったりした
-thundershirt (2回) - サンダーシャツ
-balanced (2回) - バランスの取れた
-openly (2回) - 率直に
-contents (1回) - 目次
-alongside (1回) - 一緒に
-disruption (1回) - 混乱
-embrace (1回) - 受け入れる
-daunting (1回) - おそろしい
-accustomed (1回) - 慣れた
-additionally (1回) - さらに
-ease (1回) - 落ち着く
-vocalization (1回) - 発声
-crucial (1回) - 重要な
-handling (1回) - 対処
-obedience (1回) - 従順
-socialize (1回) - 交流する
-midst (1回) - 最中
-employ (1回) - 使う
-swaddle (1回) - おくるむ
-repertoire (1回) - レパートリー
-unease (1回) - 不安
-predictable (1回) - 予測可能な
-comforting (1回) - 落ち着かせる
-fitting (1回) - ぴったりした
-multiple (1回) - 複数の
-accord (1回) - 合意する
-overview (1回) - 概要
-mask (1回) - 隠す
-alert (1回) - 警戒する
-normalcy (1回) - 普通の状態
+- environment (15回) - 環境
+- calming (13回) - 落ち着かせる
+- soothing (11回) - 落ち着かせる
+- stability (10回) - 安定性
+- cope (6回) - 対処する
+- comfortably (6回) - 快適に
+- playtime (5回) - 遊び時間
+- predictability (5回) - 予測可能性
+- scent (5回) - 香り
+- lavender (5回) - ラベンダー
+- chamomile (5回) - カモミール
+- chew (5回) - 噛む
+- consistent (4回) - 一貫した
+- adjustment (4回) - 調整
+- core (4回) - 中心的な
+- pent (4回) - 溜まった
+- energy (4回) - エネルギー
+- grooming (4回) - 手入れ
+- glossary (3回) - 用語集
+- canine (3回) - 犬の
+- navigate (3回) - 行き来する
+- unfamiliar (3回) - 馴染みのない
+- overall (3回) - 全体的な
+- reassurance (3回) - 安心感
+- mealtime (3回) - 食事時間
+- abrupt (3回) - 急な
+- transition (3回) - 移行
+- aroma (3回) - 香り
+- learning (2回) - 学習する
+- coping (2回) - 対処
+- surroundings (2回) - 周囲
+- familiarize (2回) - 慣れさせる
+- beforehand (2回) - 事前に
+- route (2回) - 経路
+- adequate (2回) - 十分な
+- foster (2回) - 育む
+- supervise (2回) - 監督する
+- playdate (2回) - 遊び仲間
+- relaxation (2回) - リラックス
+- breathing (2回) - 呼吸
+- mindfulness (2回) - マインドフルネス
+- tranquility (2回) - 静かさ
+- snug (2回) - ぴったりした
+- thundershirt (2回) - サンダーシャツ
+- balanced (2回) - バランスの取れた
+- openly (2回) - 率直に
+- contents (1回) - 目次
+- alongside (1回) - 一緒に
+- disruption (1回) - 混乱
+- embrace (1回) - 受け入れる
+- daunting (1回) - おそろしい
+- accustomed (1回) - 慣れた
+- additionally (1回) - さらに
+- ease (1回) - 落ち着く
+- vocalization (1回) - 発声
+- crucial (1回) - 重要な
+- handling (1回) - 対処
+- obedience (1回) - 従順
+- socialize (1回) - 交流する
+- midst (1回) - 最中
+- employ (1回) - 使う
+- swaddle (1回) - おくるむ
+- repertoire (1回) - レパートリー
+- unease (1回) - 不安
+- predictable (1回) - 予測可能な
+- comforting (1回) - 落ち着かせる
+- fitting (1回) - ぴったりした
+- multiple (1回) - 複数の
+- accord (1回) - 合意する
+- overview (1回) - 概要
+- mask (1回) - 隠す
+- alert (1回) - 警戒する
+- normalcy (1回) - 普通の状態

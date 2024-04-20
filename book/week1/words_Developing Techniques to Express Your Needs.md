@@ -1,54 +1,54 @@
-posture (10回) - 姿勢
-vocalization (9回) - 発声
-barking (9回) - 吠える
-bonding (9回) - 絆を深める
-cue (8回) - 合図
-facial (8回) - 表情の
-overall (5回) - 全体的な
-whining (5回) - ひっくり声を出す
-whimpering (5回) - うめき声を出す
-vocal (4回) - 声の
-effectively (4回) - 効果的に
-understanding (4回) - 理解
-accordingly (3回) - それに応じて
-nonverbal (3回) - 非言語の
-trusting (3回) - 信頼する
-environment (3回) - 環境
-cuddle (3回) - 抱きしめる
-vocally (2回) - 声を使って
-harmonious (2回) - 調和のとれた
-fulfil (2回) - 満たす
-partnership (2回) - パートナーシップ
-whine (2回) - ひっくり声
-receptive (2回) - 受け入れる態勢の
-gauge (2回) - 把握する
-persistent (2回) - 粘り強い
-crucial (2回) - 不可欠な
-cuddling (2回) - 抱きしめる
-affectionate (2回) - 愛情のこもった
-interpret (2回) - 解釈する
-whimper (2回) - うめき声を出す
-contents (1回) - 目次
-lower (1回) - 下げる
-tuck (1回) - しまい込む
-tail (1回) - しっぽ
-subtle (1回) - 微妙な
-consistent (1回) - 一貫した
-conversely (1回) - 逆に
-furrowed (1回) - しかめ面の
-brow (1回) - 眉
-distract (1回) - 気をそらす
-unsure (1回) - 不安な
-elicit (1回) - 引き出す
-reinforce (1回) - 強化する
-reliance (1回) - 信頼
-integrity (1回) - 誠実さ
-obstinately (1回) - 頑固に
-multiple (1回) - 複数の
-growling (1回) - 威嚇するような低い声を出す
-aggressively (1回) - 攻撃的に
-aggression (1回) - 攻撃性
-dominance (1回) - 優位性
-submission (1回) - 服従
-reaction (1回) - 反応
-identify (1回) - 特定する
+- posture (10回) - 姿勢
+- vocalization (9回) - 発声
+- barking (9回) - 吠える
+- bonding (9回) - 絆を深める
+- cue (8回) - 合図
+- facial (8回) - 表情の
+- overall (5回) - 全体的な
+- whining (5回) - ひっくり声を出す
+- whimpering (5回) - うめき声を出す
+- vocal (4回) - 声の
+- effectively (4回) - 効果的に
+- understanding (4回) - 理解
+- accordingly (3回) - それに応じて
+- nonverbal (3回) - 非言語の
+- trusting (3回) - 信頼する
+- environment (3回) - 環境
+- cuddle (3回) - 抱きしめる
+- vocally (2回) - 声を使って
+- harmonious (2回) - 調和のとれた
+- fulfil (2回) - 満たす
+- partnership (2回) - パートナーシップ
+- whine (2回) - ひっくり声
+- receptive (2回) - 受け入れる態勢の
+- gauge (2回) - 把握する
+- persistent (2回) - 粘り強い
+- crucial (2回) - 不可欠な
+- cuddling (2回) - 抱きしめる
+- affectionate (2回) - 愛情のこもった
+- interpret (2回) - 解釈する
+- whimper (2回) - うめき声を出す
+- contents (1回) - 目次
+- lower (1回) - 下げる
+- tuck (1回) - しまい込む
+- tail (1回) - しっぽ
+- subtle (1回) - 微妙な
+- consistent (1回) - 一貫した
+- conversely (1回) - 逆に
+- furrowed (1回) - しかめ面の
+- brow (1回) - 眉
+- distract (1回) - 気をそらす
+- unsure (1回) - 不安な
+- elicit (1回) - 引き出す
+- reinforce (1回) - 強化する
+- reliance (1回) - 信頼
+- integrity (1回) - 誠実さ
+- obstinately (1回) - 頑固に
+- multiple (1回) - 複数の
+- growling (1回) - 威嚇するような低い声を出す
+- aggressively (1回) - 攻撃的に
+- aggression (1回) - 攻撃性
+- dominance (1回) - 優位性
+- submission (1回) - 服従
+- reaction (1回) - 反応
+- identify (1回) - 特定する

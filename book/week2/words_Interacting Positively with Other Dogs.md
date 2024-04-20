@@ -1,69 +1,69 @@
-cue (17回) - 合図
-canine (17回) - 犬の
-friendly (12回) - 友好的な
-supervise (12回) - 監督する
-playtime (12回) - 遊び時間
-socialization (12回) - 社会化
-intervene (6回) - 介入する
-environment (5回) - 環境
-calmly (5回) - 落ち着いて
-navigate (4回) - 行動する
-facial (4回) - 表情の
-vocalization (4回) - 発声
-sniff (4回) - 嗅ぐ
-gently (4回) - 優しく
-primary (4回) - 主な
-glossary (3回) - 用語集
-subtle (3回) - 微妙な
-nonverbal (3回) - 非言語的な
-demeanor (3回) - 態度
-boundary (3回) - 境界線
-reinforcement (3回) - 強化
-c (3回) - c
-understanding (2回) - 理解
-attune (2回) - 敏感に感じる
-posture (2回) - 姿勢
-wrestling (2回) - レスリング
-overview (2回) - 概要
-veterinary (2回) - 獣医の
-facilitate (2回) - 促進する
-contents (1回) - 目次
-crucial (1回) - 重要な
-constructive (1回) - 建設的な
-pup (1回) - 子犬
-master (1回) - 習得する
-furry (1回) - 毛深い
-wag (1回) - 振る
-tail (1回) - 尾
-stiff (1回) - 硬い
-upright (1回) - まっすぐな
-signify (1回) - 示す
-aggression (1回) - 攻撃性
-identify (1回) - 見分ける
-enrol (1回) - 登録する
-consistently (1回) - 一貫して
-reinforce (1回) - 強化する
-utilize (1回) - 活用する
-barking (1回) - 吠える
-growling (1回) - うなる
-whine (1回) - ぐずる
-desirable (1回) - 望ましい
-repetition (1回) - 繰り返し
-multiple (1回) - 複数の
-accord (1回) - 一致する
-dominance (1回) - 優位性
-initiate (1回) - 開始する
-interference (1回) - 干渉
-obedience (1回) - 従順さ
-exposure (1回) - 接触
-gauge (1回) - 判断する
-mindful (1回) - 気をつけて
-assess (1回) - 評価する
-punitive (1回) - 懲罰的な
-redirect (1回) - 方向転換させる
-diffuse (1回) - 緩和する
-consult (1回) - 相談する
-vaccination (1回) - ワクチン接種
-duration (1回) - 期間
-territorial (1回) - 領域の
-beforehand (1回) - 事前に
+- cue (17回) - 合図
+- canine (17回) - 犬の
+- friendly (12回) - 友好的な
+- supervise (12回) - 監督する
+- playtime (12回) - 遊び時間
+- socialization (12回) - 社会化
+- intervene (6回) - 介入する
+- environment (5回) - 環境
+- calmly (5回) - 落ち着いて
+- navigate (4回) - 行動する
+- facial (4回) - 表情の
+- vocalization (4回) - 発声
+- sniff (4回) - 嗅ぐ
+- gently (4回) - 優しく
+- primary (4回) - 主な
+- glossary (3回) - 用語集
+- subtle (3回) - 微妙な
+- nonverbal (3回) - 非言語的な
+- demeanor (3回) - 態度
+- boundary (3回) - 境界線
+- reinforcement (3回) - 強化
+- c (3回) - c
+- understanding (2回) - 理解
+- attune (2回) - 敏感に感じる
+- posture (2回) - 姿勢
+- wrestling (2回) - レスリング
+- overview (2回) - 概要
+- veterinary (2回) - 獣医の
+- facilitate (2回) - 促進する
+- contents (1回) - 目次
+- crucial (1回) - 重要な
+- constructive (1回) - 建設的な
+- pup (1回) - 子犬
+- master (1回) - 習得する
+- furry (1回) - 毛深い
+- wag (1回) - 振る
+- tail (1回) - 尾
+- stiff (1回) - 硬い
+- upright (1回) - まっすぐな
+- signify (1回) - 示す
+- aggression (1回) - 攻撃性
+- identify (1回) - 見分ける
+- enrol (1回) - 登録する
+- consistently (1回) - 一貫して
+- reinforce (1回) - 強化する
+- utilize (1回) - 活用する
+- barking (1回) - 吠える
+- growling (1回) - うなる
+- whine (1回) - ぐずる
+- desirable (1回) - 望ましい
+- repetition (1回) - 繰り返し
+- multiple (1回) - 複数の
+- accord (1回) - 一致する
+- dominance (1回) - 優位性
+- initiate (1回) - 開始する
+- interference (1回) - 干渉
+- obedience (1回) - 従順さ
+- exposure (1回) - 接触
+- gauge (1回) - 判断する
+- mindful (1回) - 気をつけて
+- assess (1回) - 評価する
+- punitive (1回) - 懲罰的な
+- redirect (1回) - 方向転換させる
+- diffuse (1回) - 緩和する
+- consult (1回) - 相談する
+- vaccination (1回) - ワクチン接種
+- duration (1回) - 期間
+- territorial (1回) - 領域の
+- beforehand (1回) - 事前に

@@ -1,34 +1,34 @@
-bonding (19回) - 絆を深める
-consistent (13回) - 一貫した
-trusting (8回) - 信頼できる
-understanding (6回) - 理解
-reinforce (5回) - 強化する
-companionship (4回) - 仲間としての絆
-petting (4回) - なでる
-interactive (4回) - 相互作用的な
-predictable (4回) - 予測可能な
-effectively (3回) - 効果的に
-vulnerable (3回) - 脆弱な
-cuddling (3回) - 抱きしめる
-attentive (3回) - 注意深い
-vocalization (3回) - 発声
-accord (3回) - 調和して
-obedience (3回) - 従順さ
-relationsh (2回) - 関係性
-cornerstone (2回) - 基礎
-foster (2回) - 育む
-crucial (2回) - 重要な
-cue (2回) - 合図
-equip (2回) - 装備させる
-ongoing (2回) - 継続的な
-dedication (2回) - 献身
-forge (2回) - 築き上げる
-consistency (2回) - 一貫性
-contents (1回) - 目次
-sharing (1回) - 分かち合う
-environment (1回) - 環境
-bind (1回) - 結びつける
-reliability (1回) - 信頼性
-means (1回) - 手段
-cuddle (1回) - 抱きしめる
-multiple (1回) - 複数の
+- bonding (19回) - 絆を深める
+- consistent (13回) - 一貫した
+- trusting (8回) - 信頼できる
+- understanding (6回) - 理解
+- reinforce (5回) - 強化する
+- companionship (4回) - 仲間としての絆
+- petting (4回) - なでる
+- interactive (4回) - 相互作用的な
+- predictable (4回) - 予測可能な
+- effectively (3回) - 効果的に
+- vulnerable (3回) - 脆弱な
+- cuddling (3回) - 抱きしめる
+- attentive (3回) - 注意深い
+- vocalization (3回) - 発声
+- accord (3回) - 調和して
+- obedience (3回) - 従順さ
+- relationsh (2回) - 関係性
+- cornerstone (2回) - 基礎
+- foster (2回) - 育む
+- crucial (2回) - 重要な
+- cue (2回) - 合図
+- equip (2回) - 装備させる
+- ongoing (2回) - 継続的な
+- dedication (2回) - 献身
+- forge (2回) - 築き上げる
+- consistency (2回) - 一貫性
+- contents (1回) - 目次
+- sharing (1回) - 分かち合う
+- environment (1回) - 環境
+- bind (1回) - 結びつける
+- reliability (1回) - 信頼性
+- means (1回) - 手段
+- cuddle (1回) - 抱きしめる
+- multiple (1回) - 複数の

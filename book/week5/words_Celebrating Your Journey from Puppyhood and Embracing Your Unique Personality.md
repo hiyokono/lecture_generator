@@ -1,43 +1,43 @@
-embrace (11回) - 受け入れる
-learning (11回) - 学習
-trait (8回) - 特性
-lifetime (7回) - 生涯
-understanding (7回) - 理解
-companionship (6回) - 伴侶関係
-glossary (4回) - 用語集
-puppyhood (4回) - 子犬期
-distinct (4回) - 独特の
-quirk (3回) - 癖
-milestone (3回) - 節目
-deepen (3回) - 深める
-cue (3回) - 合図
-c (3回) - c
-obedience (3回) - 従順さ
-identify (3回) - 特定する
-canine (2回) - 犬の
-resilience (2回) - 回復力
-adaptability (2回) - 適応力
-profile (2回) - プロフィール
-overall (2回) - 全体的な
-timeline (2回) - 年表
-accomplishment (2回) - 達成
-bonding (2回) - 絆づくり
-cuddle (2回) - 抱き合う
-contents (1回) - 目次
-pup (1回) - 子犬
-explorer (1回) - 探検家
-authentic (1回) - 本物の
-adulthood (1回) - 成熟期
-testament (1回) - 証拠
-forge (1回) - 築く
-navigate (1回) - 航行する
-integral (1回) - 不可欠な
-nurture (1回) - 育む
-setback (1回) - 障害
-multiple (1回) - 複数の
-specifically (1回) - 特に
-master (1回) - 習得する
-individuality (1回) - 個性
-harmonious (1回) - 調和のとれた
-fulfil (1回) - 果たす
-crucial (1回) - 重要な
+- embrace (11回) - 受け入れる
+- learning (11回) - 学習
+- trait (8回) - 特性
+- lifetime (7回) - 生涯
+- understanding (7回) - 理解
+- companionship (6回) - 伴侶関係
+- glossary (4回) - 用語集
+- puppyhood (4回) - 子犬期
+- distinct (4回) - 独特の
+- quirk (3回) - 癖
+- milestone (3回) - 節目
+- deepen (3回) - 深める
+- cue (3回) - 合図
+- c (3回) - c
+- obedience (3回) - 従順さ
+- identify (3回) - 特定する
+- canine (2回) - 犬の
+- resilience (2回) - 回復力
+- adaptability (2回) - 適応力
+- profile (2回) - プロフィール
+- overall (2回) - 全体的な
+- timeline (2回) - 年表
+- accomplishment (2回) - 達成
+- bonding (2回) - 絆づくり
+- cuddle (2回) - 抱き合う
+- contents (1回) - 目次
+- pup (1回) - 子犬
+- explorer (1回) - 探検家
+- authentic (1回) - 本物の
+- adulthood (1回) - 成熟期
+- testament (1回) - 証拠
+- forge (1回) - 築く
+- navigate (1回) - 航行する
+- integral (1回) - 不可欠な
+- nurture (1回) - 育む
+- setback (1回) - 障害
+- multiple (1回) - 複数の
+- specifically (1回) - 特に
+- master (1回) - 習得する
+- individuality (1回) - 個性
+- harmonious (1回) - 調和のとれた
+- fulfil (1回) - 果たす
+- crucial (1回) - 重要な

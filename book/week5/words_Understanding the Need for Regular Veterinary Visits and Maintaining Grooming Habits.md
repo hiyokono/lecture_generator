@@ -1,54 +1,54 @@
-grooming (29回) - 身繕い
-veterinarian (19回) - 獣医師
-preventive (14回) - 予防的な
-veterinary (11回) - 獣医の
-glossary (9回) - 用語集
-overall (8回) - 全体的な
-detect (6回) - 発見する
-vaccination (6回) - ワクチン接種
-parasite (6回) - 寄生虫
-costly (6回) - 高価な
-irritation (5回) - 刺激
-prevention (5回) - 予防
-matting (4回) - 絡まり
-understanding (4回) - 理解
-crucial (3回) - 重要な
-brushing (3回) - ブラッシング
-tangle (3回) - 絡まり
-effectively (3回) - 効果的に
-infestation (3回) - 寄生
-proactive (3回) - 予防的な
-personalize (2回) - 個別に対応する
-recommendation (2回) - 提案
-underlying (2回) - 潜在的な
-escalate (2回) - 悪化する
-bathing (2回) - 入浴
-trimming (2回) - トリミング
-related (2回) - 関連する
-foster (2回) - 育む
-companionship (2回) - 仲間意識
-fulfil (2回) - 充実させる
-rewarding (2回) - 報わされる
-contents (1回) - 目次
-thoroughly (1回) - 徹底的に
-bonding (1回) - 絆
-consistent (1回) - 一貫した
-cleaning (1回) - 清掃
-vaccine (1回) - ワクチン
-stimulate (1回) - 刺激する
-immune (1回) - 免疫の
-medication (1回) - 薬
-worm (1回) - 寄生虫
-inflammation (1回) - 炎症
-redness (1回) - 発赤
-allergy (1回) - アレルギー
-factor (1回) - 要因
-tangling (1回) - 絡まり
-clumping (1回) - かたまり
-untreated (1回) - 手入れされていない
-multiple (1回) - 複数の
-complication (1回) - 合併症
-additionally (1回) - さらに
-comprehension (1回) - 理解
-terminology (1回) - 用語
-enhance (1回) - 高める
+- grooming (29回) - 身繕い
+- veterinarian (19回) - 獣医師
+- preventive (14回) - 予防的な
+- veterinary (11回) - 獣医の
+- glossary (9回) - 用語集
+- overall (8回) - 全体的な
+- detect (6回) - 発見する
+- vaccination (6回) - ワクチン接種
+- parasite (6回) - 寄生虫
+- costly (6回) - 高価な
+- irritation (5回) - 刺激
+- prevention (5回) - 予防
+- matting (4回) - 絡まり
+- understanding (4回) - 理解
+- crucial (3回) - 重要な
+- brushing (3回) - ブラッシング
+- tangle (3回) - 絡まり
+- effectively (3回) - 効果的に
+- infestation (3回) - 寄生
+- proactive (3回) - 予防的な
+- personalize (2回) - 個別に対応する
+- recommendation (2回) - 提案
+- underlying (2回) - 潜在的な
+- escalate (2回) - 悪化する
+- bathing (2回) - 入浴
+- trimming (2回) - トリミング
+- related (2回) - 関連する
+- foster (2回) - 育む
+- companionship (2回) - 仲間意識
+- fulfil (2回) - 充実させる
+- rewarding (2回) - 報わされる
+- contents (1回) - 目次
+- thoroughly (1回) - 徹底的に
+- bonding (1回) - 絆
+- consistent (1回) - 一貫した
+- cleaning (1回) - 清掃
+- vaccine (1回) - ワクチン
+- stimulate (1回) - 刺激する
+- immune (1回) - 免疫の
+- medication (1回) - 薬
+- worm (1回) - 寄生虫
+- inflammation (1回) - 炎症
+- redness (1回) - 発赤
+- allergy (1回) - アレルギー
+- factor (1回) - 要因
+- tangling (1回) - 絡まり
+- clumping (1回) - かたまり
+- untreated (1回) - 手入れされていない
+- multiple (1回) - 複数の
+- complication (1回) - 合併症
+- additionally (1回) - さらに
+- comprehension (1回) - 理解
+- terminology (1回) - 用語
+- enhance (1回) - 高める
