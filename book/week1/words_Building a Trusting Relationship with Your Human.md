@@ -1,3 +1,5 @@
+# Building a Trusting Relationship with Your Human
+
 - bonding (19回) - 絆を深める
 - consistent (13回) - 一貫した
 - trusting (8回) - 信頼できる

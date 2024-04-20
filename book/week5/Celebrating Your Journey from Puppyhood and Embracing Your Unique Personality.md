@@ -1,7 +1,3 @@
-# Celebrating Your Journey from Puppyhood and Embracing Your Unique Personality
-
-# Celebrating Your Journey from Puppyhood and Embracing Your Unique Personality
-
 ## Table of Contents
 1. [Introduction to the Lecture](#introduction)
 2. [Embracing Your Unique Personality](#unique-personality)

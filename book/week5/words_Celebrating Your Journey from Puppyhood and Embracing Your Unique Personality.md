@@ -1,3 +1,5 @@
+# Celebrating Your Journey from Puppyhood and Embracing Your Unique Personality
+
 - embrace (11回) - 受け入れる
 - learning (11回) - 学習
 - trait (8回) - 特性

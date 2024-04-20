@@ -1,7 +1,3 @@
-# Engaging with New Sights, Sounds, and Smells During Adventures
-
-# Engaging with New Sights, Sounds, and Smells During Adventures
-
 ## Table of Contents
 1. [Introduction to the Lecture](#introduction)
 2. [Exploring the World Safely](#exploring-safely)

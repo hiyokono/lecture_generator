@@ -1,3 +1,5 @@
+# Starting with Simple Commands
+
 - reinforcement (11回) - 強化
 - distraction (8回) - 気をそらすもの
 - prompt (8回) - 指示する

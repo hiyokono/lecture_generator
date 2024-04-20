@@ -1,7 +1,3 @@
-# The Importance of Regular Exercise and a Nutritious Diet
-
-# The Importance of Regular Exercise and a Nutritious Diet
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Maintaining Physical Health](#physical-health)
